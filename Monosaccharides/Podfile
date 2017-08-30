@@ -1,0 +1,14 @@
+platform :ios, '9.0'
+
+target 'Monosaccharides' do
+    use_frameworks!
+
+    pod 'SVProgressHUD'
+    pod 'FDFullscreenPopGesture'
+    pod 'SnapKit'
+    pod 'Kingfisher'
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+    pod 'ColorExtension'
+
+end
